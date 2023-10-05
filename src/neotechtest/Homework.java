@@ -16,6 +16,8 @@ public class Homework {
 
 	public static void main(String[] args) throws IOException {
 
+		
+		System.out.println("This change is for Git example");
 
 		/*
 		 * Read Homework.xlsx file 
